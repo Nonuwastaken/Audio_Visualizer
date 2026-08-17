@@ -45,6 +45,8 @@ https://app.cirkitdesigner.com/project/735b4f31-fd71-42aa-8f38-7ad56208304c
 
 ## Component List
 V1 = https://docs.google.com/spreadsheets/d/1ALqold5_36gFdbRfQ2sbJwHor0Tc50hgfMq46gXfjWg/edit?usp=sharing 
+
+
 V2 = https://docs.google.com/spreadsheets/d/10Zfk7NXO29kVGQfq_vPPTgnpW9qup-5_QyMn6JiCvyc/edit?usp=sharing
 ## Status
 
