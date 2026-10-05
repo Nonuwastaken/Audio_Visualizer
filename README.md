@@ -19,13 +19,6 @@ Built around an ESP32-C3, an INMP441 I2S microphone, a 0.96" I2C OLED, and an RG
 - **INMP441 (I2S mic):** SCK = GPIO 4, WS = GPIO 5, SD = GPIO 6
 - **SSD1306 OLED (I2C):** SDA = GPIO 21, SCL = GPIO 20
 
-## Firmware Notes
-
-- OLED init is non-blocking, guarded by an `oledFound` flag so the visualizer still runs if the display isn't detected.
-- I2S config explicitly sets `.mck_io_num = I2S_PIN_NO_CHANGE`.
-- Audio amplitude is smoothed (fast attack, slow decay) and mapped to LED brightness via configurable `NOISE_FLOOR` / `MAX_LOUDNESS` thresholds.
-- The OLED renders a scrolling waveform of the smoothed brightness value.
-
 ## Tuning Sensitivity
 
 You can adjust how the visualizer reacts by editing these parameters at the top of each sketch:
