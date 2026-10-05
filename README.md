@@ -63,8 +63,8 @@ https://app.cirkitdesigner.com/project/735b4f31-fd71-42aa-8f38-7ad56208304c
 
 ## PCB & Enclosure
 
-- **PCB:** the custom V2 PCB design files are in the `PCB` folder.
-- **Enclosure (CAD):** a custom enclosure was designed for the V2 board. Source files are in the `CAD` folder, and the model can be viewed on Onshape: [Onshape CAD](https://cad.onshape.com/documents/6593946ba04cc1c559037129/w/a2d187fac915f00b7de97ec5/e/4e3bb7f6afe98f245e745010?renderMode=0&uiState=6ac3cf2ced497eb034ad74c3)
+- **PCB:** the custom V2 PCB design files are in the `Custom_PCB` folder.
+- **Enclosure (CAD):** a custom enclosure was designed for the V2 board. Source files are in the `CAD Model` folder, and the model can be viewed on Onshape: [Onshape CAD](https://cad.onshape.com/documents/6593946ba04cc1c559037129/w/a2d187fac915f00b7de97ec5/e/4e3bb7f6afe98f245e745010?renderMode=0&uiState=6ac3cf2ced497eb034ad74c3)
 
 > [!IMPORTANT]
 > **Manual wiring required!** The PCB does not connect everything for you:
