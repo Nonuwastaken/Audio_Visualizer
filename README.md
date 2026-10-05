@@ -71,7 +71,7 @@ https://app.cirkitdesigner.com/project/735b4f31-fd71-42aa-8f38-7ad56208304c
 The PCB mounting holes in the CAD model are sized for **M3 heat-set inserts**. If you're using something different, adjust the hole size in the CAD model:
 
 - **Other bolt/insert sizes:** change the hole diameter to match your hardware.
-- **Screwing directly into the plastic (no inserts):** set the hole diameter to **2.9-3 mm**.
+- **Screwing directly into the plastic (no inserts):** set the hole diameter to **2.9-3 mm** (For M3).
 
 ## Component List
 
