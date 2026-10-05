@@ -66,6 +66,14 @@ https://app.cirkitdesigner.com/project/735b4f31-fd71-42aa-8f38-7ad56208304c
 - **PCB:** the custom V2 PCB design files are in the `PCB` folder.
 - **Enclosure (CAD):** a custom enclosure was designed for the V2 board. Source files are in the `CAD` folder, and the model can be viewed on Onshape: [Onshape CAD](https://cad.onshape.com/documents/6593946ba04cc1c559037129/w/a2d187fac915f00b7de97ec5/e/4e3bb7f6afe98f245e745010?renderMode=0&uiState=6ac3cf2ced497eb034ad74c3)
 
+> [!IMPORTANT]
+> **Manual wiring required!** The PCB does not connect everything for you:
+>
+> 1. **Wire GND and VIN- of the MOSFET modules by hand** with a wire.
+> 2. **Screw the LED strip wires into the screw terminals** on the MOSFET modules/PCB.
+>
+> Skip these and the LED strip won't light up.
+
 ### PCB Mounting Holes
 
 The PCB mounting holes in the CAD model are sized for **M3 heat-set inserts**. If you're using something different, adjust the hole size in the CAD model:
