@@ -70,7 +70,7 @@ https://app.cirkitdesigner.com/project/735b4f31-fd71-42aa-8f38-7ad56208304c
 > **Manual wiring required!** The PCB does not connect everything for you:
 >
 > 1. **Wire GND and VIN- of the MOSFET modules by hand** with a wire.
-> 2. **Screw the LED strip wires into the screw terminals** on the MOSFET modules/PCB.
+> 2. **Screw the LED strip wires into the screw terminals** on the MOSFET modules/PCB according to the circuit diagram given.
 >
 > Skip these and the LED strip won't light up.
 
