@@ -1,6 +1,6 @@
 # Audio Visualizer
 
-Compact ESP32-C3 audio visualizer — captures sound via an I2S microphone, displays live levels on an OLED, and drives an RGB LED strip through MOSFET channels for real-time audio-reactive lighting. Built as a sub-project of the WALL-E robot enclosure.
+Compact ESP32-C3 audio visualizer — captures sound via an I2S microphone, displays live levels on an OLED, and drives an RGB LED strip through MOSFET channels for real-time audio-reactive lighting. 
 
 ## Overview
 
